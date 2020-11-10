@@ -21,7 +21,7 @@ Package の URL には `path` は、`package.json` ファイルの含まれる�
 
 追加の情報は公式を参照してください。例えば `#` を使ってリビジョンを指定することなどができます。
 
-- [Git dependencies - Unity Official](https://docs.unity3d.com/ja/current/Manual/upm-git.html)
+- [Git URL - Unity Official](https://docs.unity3d.com/ja/current/Manual/upm-git.html)
 
 <!-- ######################################################################################### -->
 ### Packages に新しい Package を追加する
