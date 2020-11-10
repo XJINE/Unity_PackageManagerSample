@@ -21,7 +21,7 @@ Package URL `path` must shows parent folder of the `package.json`.
 
 For more information about URL, see the official. Ex. it is able to use some revision with `#`.
 
-- [Git dependencies - Unity Official](https://docs.unity3d.com/ja/current/Manual/upm-git.html)
+- [Git URL - Unity Official](https://docs.unity3d.com/ja/current/Manual/upm-git.html)
 
 <!-- ######################################################################################### -->
 ### How to develop new Package in Packages
