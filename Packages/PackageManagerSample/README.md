@@ -1,2 +1,3 @@
-This is a Readme sample.
-This file name must be "README.md".
+This is a README.md sample.
+This is mainly for Developers.
+This file name should be "README.md".
