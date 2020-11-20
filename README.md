@@ -156,10 +156,10 @@ Write some information for Package developers.
 Write some information for Package users.
 
 - Folder the name ends with `~` will be hidden in `Project` window.
-- This is able to open from `View documentation` in `Package Manager` Window.
+- This is able to open from `View documentation` in `Package Manager` window.
 - Unity recommends the file name like `(Package Name).md`.
     - but this is not required.
-    - The first `.md` file will be opend when `View documentation`.
+    - The first `.md` file will be opend with `View documentation`.
 
 <!-- ######################################################################################### -->
 ### &#x1f4c1; /Editor
